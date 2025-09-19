@@ -1,5 +1,5 @@
 @echo off
-set EMAIL=your.email@example.com
+set EMAIL=udalovmatvej69@gmail.com
 
 :: Проверка наличия Git
 where git >nul 2>&1
@@ -36,3 +36,4 @@ echo.
 echo === Публичный ключ: (уже в буфере обмена) ===
 type "%KEYFILE%.pub"
 pause
+
